@@ -85,6 +85,10 @@ body {
     color: whitesmoke;
 }
 
+.container .form {
+    width: 40%;
+}
+
 .fa-caret-down{
     color: white;
 }
