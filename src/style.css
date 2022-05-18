@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: 'Diamond-Regular', sans-serif;
 }
 
 ul {
@@ -24,4 +25,16 @@ body {
     width: 150px;
     height: auto;
     padding: 15px;
+}
+
+.container {
+    text-align: center;
+}
+
+.container .name h1 {
+    font-size: 55px;
+}
+
+.container .name h5 {
+    font-size: 30px;
 }
