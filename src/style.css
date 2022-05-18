@@ -23,13 +23,13 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: 'diamondregular', sans-serif;
-    font-weight: normal;
-    font-style: normal;
 }
 
 ul {
     list-style: none;
+    font-family: 'diamondregular', sans-serif;
+    font-weight: normal;
+    font-style: normal;
 }
 
 a {
@@ -50,8 +50,15 @@ body {
     padding: 15px;
 }
 
+#about {
+    font-family: 'vogamedium', sans-serif;
+}
+
 .container {
     text-align: center;
+    font-family: 'diamondregular', sans-serif;
+    font-weight: normal;
+    font-style: normal;
 }
 
 .container .name h1 {
