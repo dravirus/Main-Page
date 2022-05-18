@@ -73,3 +73,7 @@ body {
 .container .name h5 {
     font-size: 30px;
 }
+
+.container .form {
+    font-family: 'diamondregular', sans-serif;
+}
